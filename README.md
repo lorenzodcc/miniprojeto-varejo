@@ -4,7 +4,7 @@
 Este notebook faz parte do Miniprojeto Avaliativo da disciplina de Visualização de Dados T1 do SCTEC. O objetivo principal é realizar uma análise exploratória e de limpeza de dados de vendas de varejo, utilizando a biblioteca Pandas em Python. O projeto foi desenvolvido no Google Colab, e pode ser acessado através do link https://colab.research.google.com/drive/1uhyUbp5OYVfjk3Tee9yEnDhrYeSSPN-G
 
 ## Conjunto de Dados
-O projeto utiliza o arquivo `Base Varejo.csv`, que contém dados transacionais de um cenário de varejo. As colunas incluem informações sobre datas, IDs de compra, IDs de clientes, características demográficas dos clientes (gênero, estado civil, número de filhos, segmento) e detalhes dos produtos (ID, categoria, nome).
+O projeto utiliza o arquivo `Base Varejo.csv`, que contém dados transacionais de um cenário de varejo. As colunas incluem informações sobre datas, IDs de compra, IDs de clientes, características demográficas dos clientes (gênero, estado civil, número de filhos, segmento) e detalhes dos produtos (ID, categoria, nome). O dataset pode ser encontrado em https://www.kaggle.com/datasets/namespaiva/base-varejo
 
 ## Como Rodar o Código
 Para executar este notebook, siga os passos abaixo:
