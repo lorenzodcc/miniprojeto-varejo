@@ -1,4 +1,4 @@
-# README.md: Miniprojeto Avaliativo - Análise de Dados de Varejo
+# Miniprojeto Avaliativo - Análise de Dados de Varejo
 
 ## Visão Geral do Projeto
 Este notebook faz parte do Miniprojeto Avaliativo da disciplina de Visualização de Dados T1 do SCTEC. O objetivo principal é realizar uma análise exploratória e de limpeza de dados de vendas de varejo, utilizando a biblioteca Pandas em Python. O projeto foi desenvolvido no Google Colab, e pode ser acessado através do link https://colab.research.google.com/drive/1uhyUbp5OYVfjk3Tee9yEnDhrYeSSPN-G
